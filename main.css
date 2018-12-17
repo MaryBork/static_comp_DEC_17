@@ -1,0 +1,45 @@
+a {
+  text-decoration: none;
+  padding: 1rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+.main-nav {
+}
+
+.main-top {
+  display: flex;
+  justify-content: space-around;
+}
+
+.heading {
+  display: flex;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+
+.main-bottom {
+  display: flex;
+  justify-content: center;
+}
+
+.main-bottom a:hover {
+  color: white;
+  background-color: #cb3131;
+}
+
+.article {
+  border-top: 10px solid #cb3131;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.blog {
+  text-align: center;
+}
